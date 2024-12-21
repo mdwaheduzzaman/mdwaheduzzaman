@@ -1,7 +1,7 @@
 ![I am a Web developer specialized in WordPress and ecommerce](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/471246860_1086441949884397_6629580790972109895_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGBCsNz7PMeMWLuct80A-YrhUCQy_2AgNCFQJDL_YCA0P3VQWaG31Rco72sarrTeRTGuDom-W2N-7ufyPA1tLiv&_nc_ohc=-ye15PD7uMsQ7kNvgF9KeeI&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&_nc_gid=A9XyfL3UAiK9Rqi2aEyOVnV&oh=00_AYDdz4Q1YFAczO2rtKG31jejgiQphMxHUHPHuxgxCerGkg&oe=676C3EE3)
 
 ### Hi there 👋, Md Waheduzzaman
-#### I am a Web developer specialized in WordPress and ecommerce
+#### I am a web developer specializing in WordPress and eCommerce solutions.
 
 
 I'm a experienced web developer who loves WordPress. I am meticulous and perfectionist, my attention to detail allow me to create exceptional sites. I have been delivering quality WordPress solutions to my clients for the past 2 years from simple informational websites to complex e-commerce solution. 
